@@ -1,0 +1,13 @@
+Programátoøi:
+- C#
+- C++
+- HTML
+- Java
+- VHDL
+
+Úèetní pro poboèku:
+- Brno
+- Praha
+- Pardubice
+- Jihlava
+- Telè
